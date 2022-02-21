@@ -1,8 +1,10 @@
 ### Hi, There! 👋
 ---
-I am a student, majoring in Information and Communication Engineering.
+I am a master's degree student majoring in Computer Science, and graduated from Information Communication Engineering.
 
 interest in Self-driving cars, Reinforcement Learning and Network Service.
+and i usually use are Python, Ruby, and C/C++.
+
 
 ---
 Papers:

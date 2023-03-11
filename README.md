@@ -24,6 +24,7 @@ Projects:
 
 1. [F1TENTH IROS 2020 (Team ICE)](https://f1tenth.org/iros2020.html)
 2. [F1TENTH IROS 2021 (Team ICE)](https://iros2021.f1tenth.org/results.html#virtual-results)
+3. [1ST F1TENTH KOREA CHAMPIONSHIP (Team RTCAR)](http://korea-race.f1tenth.org/)
 ---
 
 ![zygn's github stats](https://github-readme-stats.vercel.app/api?username=zygn&show_icons=true&theme=vue)

@@ -4,7 +4,7 @@ Who am I:
 
 - Yundo Choi
 - [Real-time Computing Lab @ KNU](http://rtc.knu.ac.kr)
-- Ph.D Student ([and I'm looking for job](https://zygn.github.io))
+- Master Graduate ([and I'm looking for job](https://zygn.github.io))
 
 Interested in:
 
